@@ -1,2 +1,3 @@
 # BUDGET-TRACKER
 A budget tracker using Python involves creating a simple application to manage personal finances. 
+The project typically utilizes SQLite as the database to store expense and income data, ensuring data persistence and easy querying. For the graphical user interface (GUI), Tkinter is used to create an intuitive and interactive environment where users can add, view, and delete transactions. Key features include tracking expenses by category, setting budgets, generating summaries, and providing visual feedback on spending patterns. The combination of Python, SQLite, and Tkinter makes it an accessible project suitable for beginners looking to enhance their skills in database management and GUI development.
